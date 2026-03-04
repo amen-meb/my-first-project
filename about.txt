@@ -1,0 +1,9 @@
+About This Project
+
+This is my first GitHub project.
+It is created to practice Git, GitHub, and file management.
+
+About Me
+
+My name is Amanuel Mebratu.
+I am committed to improving my programming skills step by step.
