@@ -5,6 +5,7 @@ This is my first GitHub project.
 ## 📁 Project Structure
 
 - `my-first-project.txt` – A simple text file included in this project.
+- about.txt  - Information about the project and author
 - `Readme.md`
 
 ## 🎯 Purpose
